@@ -8,7 +8,7 @@ DB = "daisymv"
 USERNAME = "daisyshapewear@protonmail.com"
 API_KEY = "278605e84ae8e29930f60ebbbd47473e7acad6f9"
 VIBER_BOT_TOKEN = "4fff43514827e06e-765ce1f4c7ef1643-47cb4636c5f758da"
-API_URL = "https://yourdomain.com/api/index.php"  # TODO: Replace with your actual API URL
+API_URL = "https://rccmaldives.com/api/customers.php"  # TODO: Replace with your actual API URL
 
 # === PRODUCT PRICE MAP ===
 PRODUCT_PRICES = {
