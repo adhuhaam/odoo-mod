@@ -1,0 +1,8 @@
+services:
+  - type: worker
+    name: quotation-viber-worker
+    env: python
+    plan: free
+    buildCommand: ""
+    startCommand: python send_quotes.py
+    autoDeploy: true
